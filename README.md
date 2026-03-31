@@ -23,20 +23,26 @@ This repository contains **all essential files and comprehensive React topics** 
 
 | # | Topic | Description |
 |---|-------|-------------|
-| 01 | **JSX & Rendering** | Understanding JSX syntax and how React renders to the DOM |
-| 02 | **Components** | Functional and class components |
-| 03 | **Props** | Passing and using props between components |
-| 04 | **State & useState** | Managing local component state |
-| 05 | **useEffect Hook** | Side effects, lifecycle behavior |
-| 06 | **Event Handling** | Handling user interactions |
-| 07 | **Conditional Rendering** | Rendering UI based on conditions |
-| 08 | **Lists & Keys** | Rendering dynamic lists efficiently |
-| 09 | **Forms** | Controlled vs uncontrolled components |
-| 10 | **Context API** | Global state without prop drilling |
-| 11 | **useRef Hook** | Accessing DOM elements and persisting values |
-| 12 | **Custom Hooks** | Reusable stateful logic |
-| 13 | **React Router** | Client-side routing and navigation |
-| 14 | **Performance Optimization** | useMemo, useCallback, React.memo |
+| 01 | **Folder** | Understanding project structure and folder organization in React |
+| 02 | **Components** | Creating and using functional and class components |
+| 03 | **Props** | Passing data between components using props |
+| 04 | **Cards-project** | Building reusable UI components using a card-based layout |
+| 05 | **CSS** | Styling React components using CSS and best practices |
+| 06 | **Tailwind Import** | Integrating and using Tailwind CSS in a React project |
+| 07 | **Ui Project** | Designing and building a complete UI-based project |
+| 08 | **Function** | Understanding functions, event handling, and reusable logic |
+| 09 | **Use State** | Managing component state using the useState hook |
+| 10 | **Form Handling** | Handling forms, inputs, and validation in React |
+| 11 | **Two Way Binding** | Syncing input fields with state (controlled components) |
+| 12 | **Note-App** | Building a notes application using React concepts |
+| 13 | **Local Storage** | Storing and retrieving data from browser local storage |
+| 14 | **Api Call** | Fetching data from APIs using fetch/axios |
+| 15 | **UseEffect** | Handling side effects and lifecycle using useEffect hook |
+| 16 | **Gallery-Project** | Creating an image gallery project with dynamic rendering |
+| 17 | **React-Router-Dom** | Implementing routing using React Router DOM |
+| 18 | **Routing Advance** | Advanced routing concepts like nested routes and protected routes |
+| 19 | **Bonus Topic** | Performance optimization using useMemo, useCallback, and React.memo |
+
 
 ---
 
