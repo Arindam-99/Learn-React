@@ -59,7 +59,7 @@ Make sure you have the following installed:
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/react-essential-topics.git
+git clone https://github.com/Arindam-99/react-essential-topics.git
 
 # Navigate into the project directory
 cd react-essential-topics
