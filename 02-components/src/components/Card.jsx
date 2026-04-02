@@ -4,7 +4,7 @@ const Card = () => {
   return (
     <div>
         <div className='card'>
-        <h1>Sarthak Sharma</h1>
+        <h1>Arindam Das </h1>
         <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Deserunt, vitae!</p>
       </div>
     </div>

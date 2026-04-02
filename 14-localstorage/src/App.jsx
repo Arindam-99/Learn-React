@@ -3,7 +3,7 @@ import React from 'react'
 const App = () => {
 
   const user = {
-    username: 'Sarthak',
+    username: 'Arindam',
     age: 18,
     city: 'Bhopal'
   }

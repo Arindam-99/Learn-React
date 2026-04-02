@@ -30,18 +30,20 @@ This repository contains **all essential files and comprehensive React topics** 
 | 05 | **CSS** | Styling React components using CSS and best practices |
 | 06 | **Tailwind Import** | Integrating and using Tailwind CSS in a React project |
 | 07 | **Ui Project** | Designing and building a complete UI-based project |
-| 08 | **Function** | Understanding functions, event handling, and reusable logic |
+| 08 | **Functions** | Understanding functions, event handling, and reusable logic |
 | 09 | **Use State** | Managing component state using the useState hook |
-| 10 | **Form Handling** | Handling forms, inputs, and validation in React |
-| 11 | **Two Way Binding** | Syncing input fields with state (controlled components) |
-| 12 | **Note-App** | Building a notes application using React concepts |
-| 13 | **Local Storage** | Storing and retrieving data from browser local storage |
-| 14 | **Api Call** | Fetching data from APIs using fetch/axios |
-| 15 | **UseEffect** | Handling side effects and lifecycle using useEffect hook |
-| 16 | **Gallery-Project** | Creating an image gallery project with dynamic rendering |
-| 17 | **React-Router-Dom** | Implementing routing using React Router DOM |
-| 18 | **Routing Advance** | Advanced routing concepts like nested routes and protected routes |
-| 19 | **Bonus Topic** | Performance optimization using useMemo, useCallback, and React.memo |
+| 10 | **Use State Advance** | Managing component state using the useState hook(advance) |
+| 11 | **Form Handling** | Handling forms, inputs, and validation in React |
+| 12 | **Two Way Binding** | Syncing input fields with state (controlled components) |
+| 13 | **Note-App** | Building a notes application using React concepts |
+| 14 | **Local Storage** | Storing and retrieving data from browser local storage |
+| 15 | **Api Call** | Fetching data from APIs using fetch/axios |
+| 16 | **UseEffect** | Handling side effects and lifecycle using useEffect hook |
+| 17 | **Gallery-Project** | Creating an image gallery project with dynamic rendering |
+| 18 | **React-Router-Dom** | Implementing routing using React Router DOM |
+| 19 | **Routing Advance** | Advanced routing concepts like nested routes and protected routes |
+| 20 | **Bonus Topic** | Performance optimization using useMemo, useCallback, and React.memo |
+| 21 | **Counter App Using Use state** | Simple project to make the counter app  |
 
 
 ---

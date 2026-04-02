@@ -7,7 +7,7 @@ const App = () => {
   const btnClicked = () => {
     setNum(prev => (prev + 1))
     setNum(prev => (prev + 1))
-    setNum(prev => (prev + 1))
+    setNum(prev => (prev + 1)) // batch update 
   }
 
   return (
